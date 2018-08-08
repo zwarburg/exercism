@@ -1,6 +1,6 @@
 class TwoFer
-  def self.two_fer(who = nil)
-    "One for #{who||'you'}, one for me."
+  def self.two_fer(who = 'you')
+    "One for #{who}, one for me."
   end
 end
 
