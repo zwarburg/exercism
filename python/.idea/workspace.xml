@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ded7bc4-c88c-4df6-afa6-4c88f4de2fbb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ruby/accumulate/accumulate.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruby/beer-song/beer_song.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruby/difference-of-squares/difference_of_squares.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruby/grade-school/grade_school.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruby/linked-list/linked_list.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruby/nth-prime/nth_prime.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruby/pythagorean-triplet/pythagorean_triplet.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruby/rail-fence-cipher/rail_fence_cipher.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruby/raindrops/raindrops.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruby/simple-linked-list/simple_linked_list.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruby/space-age/space_age.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruby/strain/strain.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ruby/acronym/acronym.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../ruby/acronym/acronym.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ruby/anagram/anagram.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../ruby/anagram/anagram.rb" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/python$Unittests_for_complex_numbers_test_ComplexNumbersTest_test_imaginary_unit.coverage" NAME="Unittests for complex_numbers_test.ComplexNumbersTest.test_imaginary_unit Coverage Results" MODIFIED="1534285554317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/complex-numbers" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_sum_of_multiples_test_SumOfMultiplesTest_test_multiples_of_3_up_to_7.coverage" NAME="Unittests for sum_of_multiples_test.SumOfMultiplesTest.test_multiples_of_3_up_to_7 Coverage Results" MODIFIED="1534454283918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sum-of-multiples" />
+    <SUITE FILE_PATH="coverage/python$Unittests_in_sum_of_multiples_test_py.coverage" NAME="Unittests in sum_of_multiples_test.py Coverage Results" MODIFIED="1534523954660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sum-of-multiples" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_kindergarten_garden_test_KindergartenGardenTest_test_multiple_students_for_the_same_garden_with_three_students.coverage" NAME="Unittests for kindergarten_garden_test.KindergartenGardenTest.test_multiple_students_for_the_same_garden_with_three_students Coverage Results" MODIFIED="1534525925438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kindergarten-garden" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_complex_numbers_test_ComplexNumbersTest_test_real_part_of_a_number_with_real_and_imaginary_part.coverage" NAME="Unittests for complex_numbers_test.ComplexNumbersTest.test_real_part_of_a_number_with_real_and_imaginary_part Coverage Results" MODIFIED="1534285032281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/complex-numbers" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_complex_numbers_test_ComplexNumbersTest_test_conjugate_a_number_with_real_and_imaginary_part.coverage" NAME="Unittests for complex_numbers_test.ComplexNumbersTest.test_conjugate_a_number_with_real_and_imaginary_part Coverage Results" MODIFIED="1534285822747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/complex-numbers" />
+    <SUITE FILE_PATH="coverage/python$Unittests_in_complex_numbers_test_py.coverage" NAME="Unittests in complex_numbers_test.py Coverage Results" MODIFIED="1534285825197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/complex-numbers" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_kindergarten_garden_test_KindergartenGardenTest_test_garden_with_single_student.coverage" NAME="Unittests for kindergarten_garden_test.KindergartenGardenTest.test_garden_with_single_student Coverage Results" MODIFIED="1534525713762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kindergarten-garden" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_sum_of_multiples_test_SumOfMultiplesTest_test_multiples_of_3_or_5_up_to_10.coverage" NAME="Unittests for sum_of_multiples_test.SumOfMultiplesTest.test_multiples_of_3_or_5_up_to_10 Coverage Results" MODIFIED="1534455436958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sum-of-multiples" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_isbn_verifier_test_IsbnVerifierTest_test_invalid_check_digit.coverage" NAME="Unittests for isbn_verifier_test.IsbnVerifierTest.test_invalid_check_digit Coverage Results" MODIFIED="1534280309890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/isbn-verifier" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_allergies_test_AllergiesTest_test_ignore_non_allergen_score_parts.coverage" NAME="Unittests for allergies_test.AllergiesTest.test_ignore_non_allergen_score_parts Coverage Results" MODIFIED="1534279178301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/allergies" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_bob_test_BobTest_test_shouting_numbers.coverage" NAME="Unittests for bob_test.BobTest.test_shouting_numbers Coverage Results" MODIFIED="1534267947572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bob" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_complex_numbers_test_ComplexNumbersTest_test_real_part_of_a_purely_imaginary_number.coverage" NAME="Unittests for complex_numbers_test.ComplexNumbersTest.test_real_part_of_a_purely_imaginary_number Coverage Results" MODIFIED="1534285030360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/complex-numbers" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_complex_numbers_test_ComplexNumbersTest.coverage" NAME="Unittests for complex_numbers_test.ComplexNumbersTest Coverage Results" MODIFIED="1534353401300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/complex-numbers" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_allergies_test_AllergiesTest_test_allergic_to_eggs_and_peanuts.coverage" NAME="Unittests for allergies_test.AllergiesTest.test_allergic_to_eggs_and_peanuts Coverage Results" MODIFIED="1534278731663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/allergies" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_sum_of_multiples_test_SumOfMultiplesTest.coverage" NAME="Unittests for sum_of_multiples_test.SumOfMultiplesTest Coverage Results" MODIFIED="1534455443248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sum-of-multiples" />
+    <SUITE FILE_PATH="coverage/python$Unittests_in_robot_name_test_py.coverage" NAME="Unittests in robot_name_test.py Coverage Results" MODIFIED="1534357800483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/robot-name" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_isbn_verifier_test_IsbnVerifierTest.coverage" NAME="Unittests for isbn_verifier_test.IsbnVerifierTest Coverage Results" MODIFIED="1534280964991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/isbn-verifier" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_complex_numbers_test_ComplexNumbersTest_test_imaginary_part_of_a_purely_real_number.coverage" NAME="Unittests for complex_numbers_test.ComplexNumbersTest.test_imaginary_part_of_a_purely_real_number Coverage Results" MODIFIED="1534285034064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/complex-numbers" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_allergies_test_AllergiesTest_test_allergic_to_everything.coverage" NAME="Unittests for allergies_test.AllergiesTest.test_allergic_to_everything Coverage Results" MODIFIED="1534278738596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/allergies" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_allergies_test_AllergiesTest_test_ignore_non_allergen_score_parts_only_eggs.coverage" NAME="Unittests for allergies_test.AllergiesTest.test_ignore_non_allergen_score_parts_only_eggs Coverage Results" MODIFIED="1534278741925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/allergies" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_isbn_verifier_test_IsbnVerifierTest_test_valid_isbn_number.coverage" NAME="Unittests for isbn_verifier_test.IsbnVerifierTest.test_valid_isbn_number Coverage Results" MODIFIED="1534280895542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/isbn-verifier" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_allergies_test_AllergiesTest_test_allergic_to_just_strawberries.coverage" NAME="Unittests for allergies_test.AllergiesTest.test_allergic_to_just_strawberries Coverage Results" MODIFIED="1534278729499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/allergies" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_complex_numbers_test_ComplexNumbersTest_test_real_part_of_a_purely_real_number.coverage" NAME="Unittests for complex_numbers_test.ComplexNumbersTest.test_real_part_of_a_purely_real_number Coverage Results" MODIFIED="1534285028044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/complex-numbers" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_robot_name_test_RobotNameTest_test_name_sticks.coverage" NAME="Unittests for robot_name_test.RobotNameTest.test_name_sticks Coverage Results" MODIFIED="1534357025660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/robot-name" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_allergies_test_AllergiesTest.coverage" NAME="Unittests for allergies_test.AllergiesTest Coverage Results" MODIFIED="1534283722585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/allergies" />
+    <SUITE FILE_PATH="coverage/python$Unittests_in_isbn_verifier_test_py.coverage" NAME="Unittests in isbn_verifier_test.py Coverage Results" MODIFIED="1534281079301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/isbn-verifier" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_complex_numbers_test_ComplexNumbersTest_test_imaginary_part_of_a_number_with_real_and_imaginary_part.coverage" NAME="Unittests for complex_numbers_test.ComplexNumbersTest.test_imaginary_part_of_a_number_with_real_and_imaginary_part Coverage Results" MODIFIED="1534285039307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/complex-numbers" />
+    <SUITE FILE_PATH="coverage/python$Unittests_in_bob_test_py.coverage" NAME="Unittests in bob_test.py Coverage Results" MODIFIED="1534267966009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bob" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_bob_test_BobTest.coverage" NAME="Unittests for bob_test.BobTest Coverage Results" MODIFIED="1534267770503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bob" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_robot_name_test_RobotNameTest_test_different_robots_have_different_names.coverage" NAME="Unittests for robot_name_test.RobotNameTest.test_different_robots_have_different_names Coverage Results" MODIFIED="1534357120909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/robot-name" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_allergies_test_AllergiesTest_test_allergic_to_eggs_in_addition_to_other_stuff.coverage" NAME="Unittests for allergies_test.AllergiesTest.test_allergic_to_eggs_in_addition_to_other_stuff Coverage Results" MODIFIED="1534279218459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/allergies" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_kindergarten_garden_test_KindergartenGardenTest.coverage" NAME="Unittests for kindergarten_garden_test.KindergartenGardenTest Coverage Results" MODIFIED="1534525879272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kindergarten-garden" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_leap_test_LeapTest.coverage" NAME="Unittests for leap_test.LeapTest Coverage Results" MODIFIED="1534203054982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leap" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_allergies_test_AllergiesTest_test_is_allergic_to_eggs.coverage" NAME="Unittests for allergies_test.AllergiesTest.test_is_allergic_to_eggs Coverage Results" MODIFIED="1534279215262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/allergies" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_sum_of_multiples_test_SumOfMultiplesTest_test_multiples_of_3_or_5_up_to_1.coverage" NAME="Unittests for sum_of_multiples_test.SumOfMultiplesTest.test_multiples_of_3_or_5_up_to_1 Coverage Results" MODIFIED="1534356308002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sum-of-multiples" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_allergies_test_AllergiesTest_test_no_allergies_at_all.coverage" NAME="Unittests for allergies_test.AllergiesTest.test_no_allergies_at_all Coverage Results" MODIFIED="1534278441347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/allergies" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_sum_of_multiples_test_SumOfMultiplesTest_test_multiples_of_3_or_5_up_to_4.coverage" NAME="Unittests for sum_of_multiples_test.SumOfMultiplesTest.test_multiples_of_3_or_5_up_to_4 Coverage Results" MODIFIED="1534455348401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sum-of-multiples" />
+    <SUITE FILE_PATH="coverage/python$Unittests_in_allergies_test_py.coverage" NAME="Unittests in allergies_test.py Coverage Results" MODIFIED="1534284627199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/allergies" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_bob_test_BobTest_test_asking_a_numeric_question.coverage" NAME="Unittests for bob_test.BobTest.test_asking_a_numeric_question Coverage Results" MODIFIED="1534267761775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bob" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_allergies_test_AllergiesTest_test_allergic_to_more_than_eggs_but_not_peanuts.coverage" NAME="Unittests for allergies_test.AllergiesTest.test_allergic_to_more_than_eggs_but_not_peanuts Coverage Results" MODIFIED="1534279173562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/allergies" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_isbn_verifier_test_IsbnVerifierTest_test_custom_valid_isbn_number.coverage" NAME="Unittests for isbn_verifier_test.IsbnVerifierTest.test_custom_valid_isbn_number Coverage Results" MODIFIED="1534280233447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/isbn-verifier" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_allergies_test_AllergiesTest_test_no_allergies_means_not_allergic.coverage" NAME="Unittests for allergies_test.AllergiesTest.test_no_allergies_means_not_allergic Coverage Results" MODIFIED="1534279217043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/allergies" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_isbn_verifier_test_IsbnVerifierTest_test_invalid_check_digit_other_than_X.coverage" NAME="Unittests for isbn_verifier_test.IsbnVerifierTest.test_invalid_check_digit_other_than_X Coverage Results" MODIFIED="1534280741954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/isbn-verifier" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_complex_numbers_test_ComplexNumbersTest_test_divide_purely_real_numbers.coverage" NAME="Unittests for complex_numbers_test.ComplexNumbersTest.test_divide_purely_real_numbers Coverage Results" MODIFIED="1534285324361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/complex-numbers" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_allergies_test_AllergiesTest_test_allergic_to_lots_of_stuff.coverage" NAME="Unittests for allergies_test.AllergiesTest.test_allergic_to_lots_of_stuff Coverage Results" MODIFIED="1534278734937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/allergies" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_isbn_verifier_test_IsbnVerifierTest_test_valid_with_X_check_digit.coverage" NAME="Unittests for isbn_verifier_test.IsbnVerifierTest.test_valid_with_X_check_digit Coverage Results" MODIFIED="1534280560659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/isbn-verifier" />
+    <SUITE FILE_PATH="coverage/python$Unittests_in_hello_world_test_py.coverage" NAME="Unittests in hello_world_test.py Coverage Results" MODIFIED="1534199641942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hello-world" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_allergies_test_AllergiesTest_test_allergic_to_just_peanuts.coverage" NAME="Unittests for allergies_test.AllergiesTest.test_allergic_to_just_peanuts Coverage Results" MODIFIED="1534278680755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/allergies" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_allergies_test_AllergiesTest_test_allergic_to_just_eggs.coverage" NAME="Unittests for allergies_test.AllergiesTest.test_allergic_to_just_eggs Coverage Results" MODIFIED="1534278446781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/allergies" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_robot_name_test_RobotNameTest_test_has_name.coverage" NAME="Unittests for robot_name_test.RobotNameTest.test_has_name Coverage Results" MODIFIED="1534357220203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/robot-name" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_complex_numbers_test_ComplexNumbersTest_test_imaginary_part_of_a_purely_imaginary_number.coverage" NAME="Unittests for complex_numbers_test.ComplexNumbersTest.test_imaginary_part_of_a_purely_imaginary_number Coverage Results" MODIFIED="1534285037343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/complex-numbers" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1887181694">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="md" value="7" />
+          <entry key="py" value="35" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Markdown" value="7" />
+          <entry key="Python" value="35" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="2169" />
+          <entry key="md" value="22" />
+          <entry key="py" value="3561" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Markdown" value="22" />
+          <entry key="Python" value="5730" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.41463414">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/robot-name/robot_name_test.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="612">
+                  <caret line="37" column="25" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/sum-of-multiples/sum_of_multiples_test.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="378">
+                  <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/kindergarten-garden/kindergarten_garden_test.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="189">
+                  <caret line="24" column="41" lean-forward="true" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+                  <folding>
+                    <element signature="e#0#15#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/kindergarten-garden/README.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                <state split_layout="SPLIT">
+                  <first_editor />
+                  <second_editor />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/robot-name/robot_name.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="450">
+                  <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+                  <folding>
+                    <element signature="e#0#31#0" expanded="true" />
+                    <marker date="1534358021140" expanded="true" signature="114:116" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/sum-of-multiples/sum_of_multiples.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="90">
+                  <caret line="5" selection-start-line="5" selection-end-line="5" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/kindergarten-garden/kindergarten_garden.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="216">
+                  <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://C:/Python/Python36/Lib/string.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="450">
+                  <caret line="25" column="15" selection-start-line="25" selection-end-line="25" selection-end-column="15" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>lst</find>
+      <find>exp</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/hello-world/hello_world.py" />
+        <option value="$PROJECT_DIR$/leap/leap_test.py" />
+        <option value="$PROJECT_DIR$/leap/README.md" />
+        <option value="$PROJECT_DIR$/leap/leap.py" />
+        <option value="$PROJECT_DIR$/bob/bob_test.py" />
+        <option value="$PROJECT_DIR$/bob/bob.py" />
+        <option value="$PROJECT_DIR$/allergies/allergies_test.py" />
+        <option value="$PROJECT_DIR$/isbn-verifier/isbn_verifier_test.py" />
+        <option value="$PROJECT_DIR$/isbn-verifier/isbn_verifier.py" />
+        <option value="$PROJECT_DIR$/allergies/allergies.py" />
+        <option value="$PROJECT_DIR$/complex-numbers/complex_numbers.py" />
+        <option value="$PROJECT_DIR$/robot-name/robot_name.py" />
+        <option value="$PROJECT_DIR$/sum-of-multiples/sum_of_multiples.py" />
+        <option value="$PROJECT_DIR$/kindergarten-garden/kindergarten_garden.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="allergies" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="complex-numbers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="isbn-verifier" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="kindergarten-garden" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="robot-name" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="sum-of-multiples" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for kindergarten_garden_test.KindergartenGardenTest.test_multiple_students_for_the_same_garden_with_three_students">
+    <configuration name="Unittests for kindergarten_garden_test.KindergartenGardenTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kindergarten-garden" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;kindergarten_garden_test.KindergartenGardenTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for kindergarten_garden_test.KindergartenGardenTest.test_garden_with_single_student" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kindergarten-garden" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;kindergarten_garden_test.KindergartenGardenTest.test_garden_with_single_student&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for kindergarten_garden_test.KindergartenGardenTest.test_multiple_students_for_the_same_garden_with_three_students" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kindergarten-garden" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;kindergarten_garden_test.KindergartenGardenTest.test_multiple_students_for_the_same_garden_with_three_students&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for sum_of_multiples_test.SumOfMultiplesTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sum-of-multiples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;sum_of_multiples_test.SumOfMultiplesTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in sum_of_multiples_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sum-of-multiples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/sum-of-multiples/sum_of_multiples_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests for sum_of_multiples_test.SumOfMultiplesTest" />
+      <item itemvalue="Python tests.Unittests in sum_of_multiples_test.py" />
+      <item itemvalue="Python tests.Unittests for kindergarten_garden_test.KindergartenGardenTest.test_garden_with_single_student" />
+      <item itemvalue="Python tests.Unittests for kindergarten_garden_test.KindergartenGardenTest" />
+      <item itemvalue="Python tests.Unittests for kindergarten_garden_test.KindergartenGardenTest.test_multiple_students_for_the_same_garden_with_three_students" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for kindergarten_garden_test.KindergartenGardenTest.test_multiple_students_for_the_same_garden_with_three_students" />
+        <item itemvalue="Python tests.Unittests for kindergarten_garden_test.KindergartenGardenTest" />
+        <item itemvalue="Python tests.Unittests for kindergarten_garden_test.KindergartenGardenTest.test_garden_with_single_student" />
+        <item itemvalue="Python tests.Unittests in sum_of_multiples_test.py" />
+        <item itemvalue="Python tests.Unittests for sum_of_multiples_test.SumOfMultiplesTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ded7bc4-c88c-4df6-afa6-4c88f4de2fbb" name="Default Changelist" comment="" />
+      <created>1534199588539</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534199588539</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_kindergarten_garden_test_KindergartenGardenTest_test_garden_with_single_student - 2018.08.17 at 10h 06m 01s.xml">
+      <configuration name="Unittests for kindergarten_garden_test.KindergartenGardenTest.test_garden_with_single_student" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_kindergarten_garden_test_KindergartenGardenTest_test_garden_with_single_student - 2018.08.17 at 10h 08m 12s.xml">
+      <configuration name="Unittests for kindergarten_garden_test.KindergartenGardenTest.test_garden_with_single_student" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_kindergarten_garden_test_KindergartenGardenTest_test_garden_with_single_student - 2018.08.17 at 10h 08m 18s.xml">
+      <configuration name="Unittests for kindergarten_garden_test.KindergartenGardenTest.test_garden_with_single_student" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_kindergarten_garden_test_KindergartenGardenTest_test_garden_with_single_student - 2018.08.17 at 10h 08m 34s.xml">
+      <configuration name="Unittests for kindergarten_garden_test.KindergartenGardenTest.test_garden_with_single_student" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_kindergarten_garden_test_KindergartenGardenTest - 2018.08.17 at 10h 08m 37s.xml">
+      <configuration name="Unittests for kindergarten_garden_test.KindergartenGardenTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_kindergarten_garden_test_KindergartenGardenTest - 2018.08.17 at 10h 08m 47s.xml">
+      <configuration name="Unittests for kindergarten_garden_test.KindergartenGardenTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_kindergarten_garden_test_KindergartenGardenTest - 2018.08.17 at 10h 09m 47s.xml">
+      <configuration name="Unittests for kindergarten_garden_test.KindergartenGardenTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_kindergarten_garden_test_KindergartenGardenTest - 2018.08.17 at 10h 10m 38s.xml">
+      <configuration name="Unittests for kindergarten_garden_test.KindergartenGardenTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_kindergarten_garden_test_KindergartenGardenTest - 2018.08.17 at 10h 11m 19s.xml">
+      <configuration name="Unittests for kindergarten_garden_test.KindergartenGardenTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_kindergarten_garden_test_KindergartenGardenTest_test_multiple_students_for_the_same_garden_with_three_students - 2018.08.17 at 10h 12m 05s.xml">
+      <configuration name="Unittests for kindergarten_garden_test.KindergartenGardenTest.test_multiple_students_for_the_same_garden_with_three_students" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1076759" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.46559298" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39842984" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32925472" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32925472" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.4416094" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.117803834" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3737486" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32973504" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32973504" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.32925472" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hello-world/hello_world.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-world/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="576">
+            <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-world/hello_world_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leap/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="198">
+            <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leap/leap_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leap/leap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bob/bob.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bob/bob_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="59" column="21" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allergies/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="198">
+            <caret line="11" column="9" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isbn-verifier/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="234">
+            <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isbn-verifier/isbn_verifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isbn-verifier/isbn_verifier_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python/Python36/Lib/codeop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="132" selection-start-line="132" selection-end-line="132" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allergies/allergies_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allergies/allergies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/teamcity/diff_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/complex-numbers/complex_numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="112" selection-start-line="20" selection-start-column="112" selection-end-line="20" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/complex-numbers/complex_numbers_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="182" selection-start-line="182" selection-end-line="182" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sum-of-multiples/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="108">
+            <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python/Python36/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="837" selection-start-line="837" selection-end-line="837" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1338941227/itertools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="318" column="6" selection-start-line="318" selection-start-column="6" selection-end-line="318" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robot-name/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="126">
+            <caret line="7" column="64" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="64" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robot-name/robot_name_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="37" column="25" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sum-of-multiples/sum_of_multiples_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kindergarten-garden/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kindergarten-garden/kindergarten_garden_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="24" column="41" lean-forward="true" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robot-name/robot_name.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+            <marker date="1534358021140" expanded="true" signature="114:116" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sum-of-multiples/sum_of_multiples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python/Python36/Lib/string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="15" selection-start-line="25" selection-end-line="25" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kindergarten-garden/kindergarten_garden.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
