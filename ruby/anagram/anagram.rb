@@ -9,6 +9,3 @@ class Anagram
   end
 end
 
-module BookKeeping
-  VERSION = 2
-end
